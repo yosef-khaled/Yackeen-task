@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yackeen Task</string>
+    <string name="carbos">Carbos :</string>
+    <string name="fat">Fat :</string>
+    <string name="don_t_fond_search_result">don\'t fond search result</string>
+    <string name="calories">Calories :</string>
+    <string name="difficulty">Difficulty :</string>
+    <string name="fats">Fats :</string>
+    <string name="proteins">Proteins :</string>
+    <string name="description">Description :-</string>
+    <string name="fats_menu">Fats</string>
+    <string name="calories_menu">Calories</string>
+    <string name="sort_by">Sort By</string>
+    <string name="search_by_name">Search by name</string>
+</resources>
